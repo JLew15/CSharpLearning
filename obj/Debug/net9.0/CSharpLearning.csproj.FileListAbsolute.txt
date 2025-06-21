@@ -1,0 +1,15 @@
+/Users/jaidenlewis/VSCODE/CSharpLearning/bin/Debug/net9.0/CSharpLearning
+/Users/jaidenlewis/VSCODE/CSharpLearning/bin/Debug/net9.0/CSharpLearning.deps.json
+/Users/jaidenlewis/VSCODE/CSharpLearning/bin/Debug/net9.0/CSharpLearning.runtimeconfig.json
+/Users/jaidenlewis/VSCODE/CSharpLearning/bin/Debug/net9.0/CSharpLearning.dll
+/Users/jaidenlewis/VSCODE/CSharpLearning/bin/Debug/net9.0/CSharpLearning.pdb
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.AssemblyInfoInputs.cache
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.AssemblyInfo.cs
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.csproj.CoreCompileInputs.cache
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.sourcelink.json
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.dll
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/refint/CSharpLearning.dll
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.pdb
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/CSharpLearning.genruntimeconfig.cache
+/Users/jaidenlewis/VSCODE/CSharpLearning/obj/Debug/net9.0/ref/CSharpLearning.dll
